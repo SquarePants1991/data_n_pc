@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 3495307597
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eda4c0e9f8954163c12af4be6df6615d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68fa5b96270a47b7c287c75a6f508472
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bundle/Chars/c010_01/aim.prefab
+- Assets/Bundle/Chars/c010_01/c010_skillcut.png
+- Assets/Bundle/Chars/c010_01/portrait/c010_01.atlas.txt
+- Assets/Bundle/Chars/c010_01/voices/c010_Lobby_Stay_Love_1.wav
+- Assets/Bundle/Chars/c010_01/voices/c010_Lobby_Touch_Love_3.wav
+- Assets/Bundle/Chars/c010_01/voices/c010_Lobby_Stay_1.wav
+- Assets/Bundle/Chars/c010_01/aim/c010_aim_01_Material.mat
+- Assets/Bundle/Chars/c010_01/cover/c010_cover_01_SkeletonData.asset
+- Assets/Bundle/Chars/c010_01/cover.prefab
+- Assets/Bundle/Chars/c010_01/cover/c010_cover_01.png
+- Assets/Bundle/Chars/c010_01/cover/c010_cover_01.skel.bytes
+- Assets/Bundle/Chars/c010_01/aim/c010_aim_01_Atlas.asset
+- Assets/Bundle/Chars/c010_01/cover/c010_cover_01.atlas.txt
+- Assets/Bundle/Chars/c010_01/aim/c010_aim_01.skel.bytes
+- Assets/Bundle/Chars/c010_01/info.json
+- Assets/Bundle/Chars/c010_01/c010_skillcut.skel.bytes
+- Assets/Bundle/Chars/c010_01/portrait/c010_01_Atlas.asset
+- Assets/Bundle/Chars/c010_01/portrait.prefab
+- Assets/Bundle/Chars/c010_01/cover/c010_cover_01_Material.mat
+- Assets/Bundle/Chars/c010_01/voices/c010_Lobby_Touch_Love_1.wav
+- Assets/Bundle/Chars/c010_01/aim/c010_aim_01.atlas.txt
+- Assets/Bundle/Chars/c010_01/portrait/c010_01.skel.bytes
+- Assets/Bundle/Chars/c010_01/portrait/c010_01_Material.mat
+- Assets/Bundle/Chars/c010_01/portrait/c010_01_SkeletonData.asset
+- Assets/Bundle/Chars/c010_01/voices/c010_Lobby_Touch_3.wav
+- Assets/Bundle/Chars/c010_01/aim/c010_aim_01.png
+- Assets/Bundle/Chars/c010_01/c010_skillcut.atlas.txt
+- Assets/Bundle/Chars/c010_01/voices/c010_Lobby_Touch_2.wav
+- Assets/Bundle/Chars/c010_01/voices/c010_Lobby_Touch_Love_2.wav
+- Assets/Bundle/Chars/c010_01/voices/c010_Lobby_Touch_1.wav
+- Assets/Bundle/Chars/c010_01/portrait/c010_01.png
+- Assets/Bundle/Chars/c010_01/c010_skillcut_Material.mat
+- Assets/Bundle/Chars/c010_01/aim/c010_aim_01_SkeletonData.asset
+- Assets/Bundle/Chars/c010_01/c010_skillcut_Atlas.asset
+- Assets/Bundle/Chars/c010_01/cover/c010_cover_01_Atlas.asset
+Dependencies: []
